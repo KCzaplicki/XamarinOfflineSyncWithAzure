@@ -6255,8 +6255,14 @@ namespace XamarinOfflineSyncWithAzure.Droid
 			// aapt resource value: 0x7f0c016e
 			public const int Animation_Design_BottomSheetDialog = 2131493230;
 			
-			// aapt resource value: 0x7f0c0191
-			public const int AppCompatDialogStyle = 2131493265;
+			// aapt resource value: 0x7f0c0195
+			public const int AppCompatDialogStyle = 2131493269;
+			
+			// aapt resource value: 0x7f0c0192
+			public const int AppTheme_AppBarOverlay = 2131493266;
+			
+			// aapt resource value: 0x7f0c0193
+			public const int AppTheme_PopupOverlay = 2131493267;
 			
 			// aapt resource value: 0x7f0c00a9
 			public const int Base_AlertDialog_AppCompat = 2131493033;
@@ -6758,6 +6764,12 @@ namespace XamarinOfflineSyncWithAzure.Droid
 			
 			// aapt resource value: 0x7f0c000e
 			public const int CardView_Light = 2131492878;
+			
+			// aapt resource value: 0x7f0c0191
+			public const int CustomActionModeStyle = 2131493265;
+			
+			// aapt resource value: 0x7f0c0194
+			public const int CustomActionModeTextStyle = 2131493268;
 			
 			// aapt resource value: 0x7f0c018f
 			public const int MainTheme = 2131493263;
